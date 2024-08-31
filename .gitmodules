@@ -1,0 +1,3 @@
+[submodule "packages/integrations/src/private"]
+	path = packages/integrations/src/private
+	url = git@github.com:GrzegorzDerdak/storefront-integrations.git
